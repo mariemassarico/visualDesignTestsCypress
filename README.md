@@ -11,7 +11,7 @@ It's time for install Cypress and image-diff-js
 2. Use a package for read shell script (in Visual Studio Code) or open the wsl;
 3. Run
    ```
-   ./cypressInstall.sh 1name-of-your-project 2your-name 3version-cypress(optional)
+   ./cypressVisualTestInstall.sh 1name-of-your-project 2your-name 3version-cypress(optional)
    ```
 4. Enter in your directory;
 5. Run the test example or adjust yours tests for running;
