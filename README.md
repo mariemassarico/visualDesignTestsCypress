@@ -19,7 +19,7 @@ It's time for install Cypress and image-diff-js
    ```
    npx cypress-image-diff-html-report generate
    ```
-7.For visualization the report in html, use this command:
+7. For visualization the report in html, use this command:
    ```
    npx cypress-image-diff-html-report start
    ```
