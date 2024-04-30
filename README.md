@@ -16,10 +16,10 @@ It's time for install Cypress and image-diff-js
 4. Enter in your directory;
 5. Run the test example or adjust yours tests for running;
 6. After run the tests, use the command for generate the report for image differences:
-```
-npx cypress-image-diff-html-report generate
-```
-7. For visualization the report in html, use this command:
-```
-npx cypress-image-diff-html-report start
-```
+   ```
+   npx cypress-image-diff-html-report generate
+   ```
+7.For visualization the report in html, use this command:
+   ```
+   npx cypress-image-diff-html-report start
+   ```
